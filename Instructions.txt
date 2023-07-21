@@ -1,0 +1,10 @@
+Prerequisite:Node.js
+
+1. open the current directory (intern) in terminal.
+2. Run following commands:-
+    1. cd server
+    2. npm start 
+3. Open another instance of the terminal in the intern directory and run following command:-
+    1. cd client
+    2. npm run dev
+3. click on the link given in the terminal to open it in the browser
